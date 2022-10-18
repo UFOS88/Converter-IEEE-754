@@ -1,5 +1,4 @@
 from cmath import log
-from re import I
 
 
 class IEEE754():
